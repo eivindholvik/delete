@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "live-server": "^1.2.2",
+    "sass": "^1.66.1"
+  }
 }
